@@ -23,7 +23,7 @@ if (randomNumber1 > randomNumber2) {
     document.querySelector("h1").innerHTML = "🚩 Play 1 Wins!";
 }
 else if (randomNumber2 > randomNumber1) {
-    document.querySelector("h1").innerHTML = "🚩 Play 2 Wins!";
+    document.querySelector("h1").innerHTML = "Play 2 Wins! 🚩";
 }
 else {
     document.querySelector("h1").innerHTML = "Draw!";
